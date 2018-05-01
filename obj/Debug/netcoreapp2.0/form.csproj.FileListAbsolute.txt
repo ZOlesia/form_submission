@@ -1,0 +1,10 @@
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\form\bin\Debug\netcoreapp2.0\form.deps.json
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\form\bin\Debug\netcoreapp2.0\form.runtimeconfig.json
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\form\bin\Debug\netcoreapp2.0\form.runtimeconfig.dev.json
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\form\bin\Debug\netcoreapp2.0\form.dll
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\form\bin\Debug\netcoreapp2.0\form.pdb
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\form\obj\Debug\netcoreapp2.0\form.csproj.CoreCompileInputs.cache
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\form\obj\Debug\netcoreapp2.0\form.AssemblyInfoInputs.cache
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\form\obj\Debug\netcoreapp2.0\form.AssemblyInfo.cs
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\form\obj\Debug\netcoreapp2.0\form.dll
+C:\Users\56ole\Documents\DOJO\DojoAssignments\netCore\ASP\form\obj\Debug\netcoreapp2.0\form.pdb
